@@ -3,6 +3,7 @@
 # Gradient Colors In Swift
 
 The playground which goes along with the following tutorial:
+https://medium.com/@kgellci/quickly-apply-gradient-colors-to-text-in-ios-299f7639b514
 
 # Part 1
 
