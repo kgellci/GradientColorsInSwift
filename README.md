@@ -1,6 +1,6 @@
 ![screen_3.png](README/screen_3.png)
 
-# GradientColorsInSwift
+# Gradient Colors In Swift
 
 The playground which goes along with the following tutorial:
 
